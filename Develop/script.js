@@ -1,3 +1,4 @@
+
 var generateBtn = document.querySelector("#generate");
 
 function generatePassword() {
